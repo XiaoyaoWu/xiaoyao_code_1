@@ -1,3 +1,9 @@
+1️⃣ 添加到暂存区 全部添加：git add . or git add filename.py
+
+2️⃣ 提交（commit）git commit -m "update"
+
+3️⃣ 推送到 GitHub git push origin main
+
 一、创建仓库：
     1.打开对应文件夹
     2.运行：git init #创建仓库（初始化仓库）
